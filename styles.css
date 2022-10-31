@@ -1,0 +1,118 @@
+ #menubutton1{
+        border-radius: 0px;
+        background-color: transparent;
+        height: 40px;
+        width: 80px;
+        color: black;
+        
+     }
+
+    #menubutton2{
+        border-radius: 0px;
+        background-color: transparent;
+        height: 40px;
+        width: 80px;
+        color: black;
+    
+     }
+
+     #menubutton3{
+        border-radius: 0px;
+        background-color: transparent;
+        height: 40px;
+        width: 80px;
+        color: black;
+
+     }
+
+     #menubutton4{
+        border-radius: 0px;
+        background-color: transparent;
+        height: 40px;
+        width: 80px;
+        color: black;
+
+     }
+
+     #menubutton1:hover{
+        background-color: black;
+        color: white;   
+        
+     }
+
+    #menubutton2:hover{
+       background-color: black;
+        color: white;
+      
+     }
+
+     #menubutton3:hover{
+        background-color: black;
+        color: white;   
+
+     }
+
+     #menubutton4:hover{
+        background-color: black;
+        color: white;
+     }
+
+     #simfor{
+        background-color: white;
+        color: black;
+        height: 50px;
+        width: 180px;
+        border-radius: 30px;
+
+     }
+
+     #simfor:hover{
+        background-color: black;
+        color: white;
+        
+
+     }
+
+     #vidfor{
+        background-color: white;
+        color: black;
+        height: 50px;
+        width: 180px;
+        border-radius: 30px;
+
+     }
+
+     #vidfor:hover{
+        background-color: black;
+        color: white;
+     }
+
+     #youopen{
+         background-color: white;
+        color: black;
+        height: 50px;
+        width: 180px;
+        border-radius: 30px;
+
+     }
+
+     #feedbut{
+         background-color: white;
+        color: black;
+        height: 50px;
+        width: 180px;
+        border-radius: 30px;
+
+     }
+
+     #youopen:hover{
+        background-color: black;
+        color: white;
+
+     }
+
+     #feedbut:hover{
+        background-color: black;
+        color: white;
+
+     }
